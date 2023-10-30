@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=780&lines=Hi!+I'm+Gustavo+Sinto+Botejara+%F0%9F%91%8B;I'm+a+Intern+FullStack+Developer+working+with+Angular+and+Dotnet;Currently+Majoring+in+Software+Engineering)](https://git.io/typing-svg)
+
+
 <div align="center">
   <a>
       <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoBotejara&theme=react&border=61dafb&hide_border=true" alt="stats" />
