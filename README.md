@@ -38,6 +38,15 @@
   <a>
     <img align="center" alt="Bote-CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
   </a>
+  <a>
+    <img align="center" alt="Bote-Sass" src="https://img.shields.io/badge/-Sass-1572B6?style=flat-square&logo=sass">
+  </a>
+  <a>
+    <img align="center" alt="Bote-Prime" src="https://img.shields.io/badge/-PrimeNG-red?style=flat-square&logo=primeng">
+  </a>
+  <a>
+    <img align="center" alt="Bote-Bootstrap" src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap">
+  </a>
   <a> 
     <img align="center" alt="Bote-Dotnet" src="https://img.shields.io/badge/-Dotnet-purple?style=flat-square&logo=dotnet">
   </a>
