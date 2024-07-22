@@ -21,7 +21,10 @@
     <img align="center" alt="Bote-Angular" src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular">
   </a>
   <a> 
-    <img align="center" alt="Bote-Ionic" src="https://img.shields.io/badge/-Ionic-blue?style=flat-square&logo=ionic">
+    <img align="center" alt="Bote-Ionic" src="https://img.shields.io/badge/-Ionic-white?style=flat-square&logo=ionic">
+  </a>
+  <a> 
+    <img align="center" alt="Bote-Capacitor" src="https://img.shields.io/badge/-Capacitor-white?style=flat-square&logo=capacitor">
   </a>
   <a>
     <img align="center" alt="Bote-HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
