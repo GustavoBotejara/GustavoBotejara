@@ -10,6 +10,12 @@
   </a>
 </div>
 <br>
+<div align="center"> 
+  <a href="https://github.com/Bassanetto/github-readme-stats">
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassanetto&layout=compact&langs_count=10&theme=react&hide_border=true"/>
+  </a>
+</div>
+<br>
 <div align="center" style="display: inline_block">
   <a>
     <img align="center" alt="Bote-Js" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
