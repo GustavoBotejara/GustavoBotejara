@@ -5,14 +5,9 @@
   <a>
       <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoBotejara&theme=react&border=61dafb&hide_border=true" alt="stats" />
   </a>
+  <br>
   <a href="https://github.com/GustavoBotejara/github-readme-stats" title="Go to Source">
       <img align="center" width=370 src="https://github-readme-stats.vercel.app/api?username=GustavoBotejara&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-<br>
-<div align="center"> 
-  <a href="https://github.com/GustavoBotejara/github-readme-stats">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBotejara&layout=compact&langs_count=10&theme=react&hide_border=true"/>
   </a>
 </div>
 <br>
