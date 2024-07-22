@@ -39,7 +39,7 @@
     <img align="center" alt="Bote-CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
   </a>
   <a>
-    <img align="center" alt="Bote-Sass" src="https://img.shields.io/badge/-Sass-1572B6?style=flat-square&logo=sass">
+    <img align="center" alt="Bote-Sass" src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass">
   </a>
   <a>
     <img align="center" alt="Bote-Prime" src="https://img.shields.io/badge/-PrimeNG-red?style=flat-square&logo=primeng">
