@@ -38,6 +38,9 @@
   <a> 
     <img align="center" alt="Bote-Dotnet" src="https://img.shields.io/badge/-dotnet-purple?style=flat-square&logo=dotnet">
   </a>
+  <a> 
+    <img align="center" alt="Bote-Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
+  </a>
 </div>
 <br/>
 
