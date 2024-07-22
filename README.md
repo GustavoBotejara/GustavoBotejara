@@ -39,10 +39,10 @@
     <img align="center" alt="Bote-CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
   </a>
   <a>
-    <img align="center" alt="Bote-Csharp" src="https://img.shields.io/badge/-csharp-purple?style=flat-square&logo=C#">
+    <img align="center" alt="Bote-Csharp" src="https://img.shields.io/badge/-C#-purple?style=flat-square&logo=Csharp">
   </a>
   <a> 
-    <img align="center" alt="Bote-Dotnet" src="https://img.shields.io/badge/-dotnet-purple?style=flat-square&logo=dotnet">
+    <img align="center" alt="Bote-Dotnet" src="https://img.shields.io/badge/-Dotnet-purple?style=flat-square&logo=dotnet">
   </a>
   <a> 
     <img align="center" alt="Bote-Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
