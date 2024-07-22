@@ -21,6 +21,9 @@
     <img align="center" alt="Bote-Angular" src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular">
   </a>
   <a> 
+    <img align="center" alt="Bote-React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
+  </a>
+  <a> 
     <img align="center" alt="Bote-Ionic" src="https://img.shields.io/badge/-Ionic-white?style=flat-square&logo=ionic">
   </a>
   <a> 
