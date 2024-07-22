@@ -45,10 +45,10 @@
     <img align="center" alt="Bote-Prime" src="https://img.shields.io/badge/-PrimeNG-red?style=flat-square&logo=primeng">
   </a>
   <a>
-    <img align="center" alt="Bote-Bootstrap" src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap">
+    <img align="center" alt="Bote-Bootstrap" src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap">
   </a>
   <a> 
-    <img align="center" alt="Bote-Dotnet" src="https://img.shields.io/badge/-Dotnet-purple?style=flat-square&logo=dotnet">
+    <img align="center" alt="Bote-Dotnet" src="https://img.shields.io/badge/-Dotnet-black?style=flat-square&logo=dotnet">
   </a>
   <a> 
     <img align="center" alt="Bote-Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
