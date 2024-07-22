@@ -17,6 +17,12 @@
   <a>
     <img align="center" alt="Bote-Ts" src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
   </a>
+  <a> 
+    <img align="center" alt="Bote-Angular" src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular">
+  </a>
+  <a> 
+    <img align="center" alt="Bote-Ionic" src="https://img.shields.io/badge/-Ionic-blue?style=flat-square&logo=ionic">
+  </a>
   <a>
     <img align="center" alt="Bote-HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   </a>
@@ -27,7 +33,7 @@
     <img align="center" alt="Bote-Csharp" src="https://img.shields.io/badge/-csharp-purple?style=flat-square&logo=csharp">
   </a>
   <a> 
-    <img align="center" alt="Bote-Angular" src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular">
+    <img align="center" alt="Bote-Dotnet" src="https://img.shields.io/badge/-dotnet-purple?style=flat-square&logo=dotnet">
   </a>
 </div>
 <br/>
