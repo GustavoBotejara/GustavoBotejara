@@ -3,10 +3,10 @@
 
 <div align="center">
   <a>
-      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoBotejara&theme=react&border=61dafb&hide_border=true" alt="stats" />
+    <img align="center" src="https://streak-stats.demolab.com?user=GustavoBotejara&border_radius=20&background=20%2C0A1C80%2C120707&border=EB545400&stroke=EBEBEB&ring=EBEBEB&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/GustavoBotejara/github-readme-stats" title="Go to Source">
-      <img align="center" width=370 src="https://github-readme-stats.vercel.app/api?username=GustavoBotejara&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoBotejara&show_icons=true&title_color=EBEBEB&border_radius=20&text_color=EBEBEB&bg_color=45%2C000000%2C0A1C80&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 <br>
