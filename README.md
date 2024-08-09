@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=780&lines=Hi!+I'm+Gustavo+Sinto+Botejara+%F0%9F%91%8B;I'm+a+Intern+FullStack+Developer+working+with+Angular+and+Dotnet)](https://git.io/typing-svg)
-
-
 <div align="center">
   <a>
     <img align="center" width=390 src="https://streak-stats.demolab.com?user=GustavoBotejara&border_radius=20&background=20%2C0A1C80%2C120707&border=EB545400&stroke=EBEBEB&ring=EBEBEB&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB" alt="GitHub Streak" />
